@@ -1,9 +1,5 @@
 # SVGs
-**SVG links for my personal profile README:**
 
-**https://github.com/philmard**
-
-<h2 align="left">⚡ How they should look: </h2>
 
 <p align="left">•
 <a href="https://data.typeracer.com/misc/about" target="blank"><img align="center" src="https://github.com/philmard/SVGs/blob/main/Site-logo-typeracer2.svg" alt="philmard" height="30" width="30" /></a>
